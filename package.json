@@ -6,7 +6,7 @@
   "type": "module",
   "author": {
     "name": "shadcn",
-    "url": "https://twitter.com/shadcn"
+    "url": "https://x.com/shadcn"
   },
   "workspaces": [
     "apps/*",
